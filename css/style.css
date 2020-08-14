@@ -710,12 +710,17 @@ nav .right-side .user-icons .icon.has-notification::after {
     right: 8px;
 }
 
+.posts .view .view-post .desc p {
+    color: var(--white);
+    margin: 20px 0 10px 0;
+    font-size: 00.88rem;
+}
+
 .posts .view .view-post .post-img {
     height: 40vh;
     width: 100%;
     overflow: hidden;
     border-radius: 10px;
-    margin-top: 20px;
 }
 
 .posts .view .view-post .post-img img {
