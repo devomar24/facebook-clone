@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="21" viewBox="0 0 30 21">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="-0.091" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff78a2"/>
+      <stop offset="1" stop-color="#5151eb"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_material-switch-video" data-name="Icon material-switch-video" d="M27,14.25V9a1.5,1.5,0,0,0-1.5-1.5H4.5A1.5,1.5,0,0,0,3,9V27a1.5,1.5,0,0,0,1.5,1.5h21A1.5,1.5,0,0,0,27,27V21.75l6,6V8.25Zm-7.5,9V19.5h-9v3.75L5.25,18l5.25-5.25V16.5h9V12.75L24.75,18Z" transform="translate(-3 -7.5)" fill="url(#linear-gradient)"/>
+</svg>

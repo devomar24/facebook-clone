@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.75" height="35.997" viewBox="0 0 33.75 35.997">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f62976"/>
+      <stop offset="1" stop-color="#771fdb"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-shield-alt" data-name="Icon awesome-shield-alt" d="M31.676,30.113l-13.5,5.625a3.386,3.386,0,0,1-2.595,0l-13.5-5.625A3.371,3.371,0,0,1,0,27C0,13.041,8.051,3.394,15.574.258a3.386,3.386,0,0,1,2.595,0C24.195,2.769,33.75,11.438,33.75,27A3.376,3.376,0,0,1,31.676,30.113ZM16.882,4.618l-.007,26.789,12.368-5.154C29.011,15.608,23.47,7.894,16.882,4.618Z" transform="translate(33.75 35.997) rotate(180)" fill="url(#linear-gradient)"/>
+</svg>
