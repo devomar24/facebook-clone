@@ -31,8 +31,7 @@ html {
     box-sizing: border-box;
 }
 
-button,
-input {
+input[type = "button"] {
     outline: none !important;
 }
 
